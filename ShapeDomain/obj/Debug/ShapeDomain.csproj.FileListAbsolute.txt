@@ -1,0 +1,4 @@
+c:\Users\rtorr99\documents\visual studio 2013\Projects\Shapes\ShapeDomain\bin\Debug\ShapeDomain.dll
+c:\Users\rtorr99\documents\visual studio 2013\Projects\Shapes\ShapeDomain\bin\Debug\ShapeDomain.pdb
+c:\Users\rtorr99\documents\visual studio 2013\Projects\Shapes\ShapeDomain\obj\Debug\ShapeDomain.dll
+c:\Users\rtorr99\documents\visual studio 2013\Projects\Shapes\ShapeDomain\obj\Debug\ShapeDomain.pdb
